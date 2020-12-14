@@ -1,9 +1,6 @@
 # l31tm0t1f-github.io
-# 20201126_collectables
-# Basic Game Development
 # 2020 Fall
-
-Game for Learning Math
+# Game for Learning Math
 
 Serious goal of the game:
 This is a game for preschool and 1.grade kids to learn addition and subtraction. 
